@@ -1,0 +1,164 @@
+{
+  "seller": [
+    {
+      "name": "Anil Sidhu",
+      "email": "abc@123",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Akash Kundu",
+      "email": "abc@456",
+      "password": "456",
+      "id": 2
+    },
+    {
+      "name": "Tanusri",
+      "password": "tanu",
+      "email": "at@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Papri Kundu",
+      "password": "pu",
+      "email": "papri",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "jiniya kundu",
+      "email": "akash@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "barnali",
+      "email": "barnali@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "akash",
+      "email": "akash24@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Redmi 9 Pro",
+      "price": "15000",
+      "color": "black",
+      "category": "mobile",
+      "description": "Redmi product",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/A7649DFD-E4B4-3939-1865-B859D51A3BF5!800x800!85.jpg",
+      "id": 4
+    },
+    {
+      "name": "Samsung F23",
+      "price": "20000",
+      "color": "red",
+      "category": "mobile",
+      "description": "samsung mobile",
+      "image": "https://www.91-img.com/pictures/149249-v4-samsung-galaxy-f23-5g-mobile-phone-large-1.jpg",
+      "id": 5
+    },
+    {
+      "name": "Oxidized Ear Rings",
+      "price": "150",
+      "color": "White",
+      "category": "Ear Rings for Women",
+      "description": "Ornaments of Women",
+      "image": "https://img1.exportersindia.com/product_images/bc-full/2018/8/5854793/colorful-oxidised-earrings-1535522342-4241083.jpeg",
+      "id": 6
+    },
+    {
+      "name": "Acer Laptop",
+      "price": "50000",
+      "color": "black",
+      "category": "Laptop",
+      "description": "laptop product",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2020/11/SU/WK/SJ/6845412/acer-laptop-500x500.jpg",
+      "id": 7
+    },
+    {
+      "name": "HP Laptop",
+      "price": "25000",
+      "color": "black",
+      "category": "Laptop",
+      "description": "laptop product",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2020/08/HP-14s-feat-1200x675.jpg",
+      "id": 8
+    }
+  ],
+  "cart": [
+    {
+      "name": "Redmi 9 Pro",
+      "price": "15000",
+      "color": "black",
+      "category": "mobile",
+      "description": "Redmi product",
+      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/A7649DFD-E4B4-3939-1865-B859D51A3BF5!800x800!85.jpg",
+      "quantity": 3,
+      "productId": 4,
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "name": "HP Laptop",
+      "price": "25000",
+      "color": "black",
+      "category": "Laptop",
+      "description": "laptop product",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2020/08/HP-14s-feat-1200x675.jpg",
+      "quantity": 1,
+      "productId": 8,
+      "userId": 2,
+      "id": 11
+    },
+    {
+      "name": "Oxidized Ear Rings",
+      "price": "150",
+      "color": "White",
+      "category": "Ear Rings for Women",
+      "description": "Ornaments of Women",
+      "image": "https://img1.exportersindia.com/product_images/bc-full/2018/8/5854793/colorful-oxidised-earrings-1535522342-4241083.jpeg",
+      "quantity": 1,
+      "productId": 6,
+      "userId": 2,
+      "id": 12
+    },
+    {
+      "name": "Oxidized Ear Rings",
+      "price": "150",
+      "color": "White",
+      "category": "Ear Rings for Women",
+      "description": "Ornaments of Women",
+      "image": "https://img1.exportersindia.com/product_images/bc-full/2018/8/5854793/colorful-oxidised-earrings-1535522342-4241083.jpeg",
+      "quantity": 1,
+      "productId": 6,
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "name": "Acer Laptop",
+      "price": "50000",
+      "color": "black",
+      "category": "Laptop",
+      "description": "laptop product",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2020/11/SU/WK/SJ/6845412/acer-laptop-500x500.jpg",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 1,
+      "id": 14
+    }
+  ],
+  "orders": {
+    "email": "akash@gmail.com",
+    "address": "Naihati",
+    "contact": "3456",
+    "totalPrice": 20550,
+    "userId": 1
+  }
+}
